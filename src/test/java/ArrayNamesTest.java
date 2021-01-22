@@ -18,6 +18,4 @@ public class ArrayNamesTest {
         assertEquals("Students 3", testArray[2]);
         assertEquals("Students 4", testArray[3]);
     }
-
-
 }
